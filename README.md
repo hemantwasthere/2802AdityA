@@ -2,12 +2,6 @@
 
 <h1 align="center"> Hey, I am Aditya!</h1>
 
-<p align="center">
-  <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&width=380&height=45&lines=A+Keen+Learner;Web+Developer;Open+Source+Enthusiast&center=true"></a>
-
-</p>
-
 <div>
 <img align="right" alt="coding" width="400" src="Assets/chellocat.png">
 </div>
