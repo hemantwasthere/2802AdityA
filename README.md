@@ -13,23 +13,23 @@
 </div>
 <h2>
 
-About Me
+🙋🏻‍♂️ About Me
 
 </h2>
 
-<p style="font-size: 18px">
+<p >
 
-- B.Tech Freshman major in **Information Technology**
+- 👨‍🎓 B.Tech Freshman major in **Information Technology**
 
-- Currently working on **MERN Stack Projects**
+- 👨‍💻 Currently working on **MERN Stack Projects**
 
-- Practicing DSA in **JAVA**
+- 📝 Practicing DSA in **JAVA**
 
-- Exploring some open source projects to collaborate
+- 🔍 Exploring some open source projects to collaborate
 
-- Open for Collaborations
+- 🤝🏼 Open for Collaborations
 
-- Fun fact: **I debug until bugs kill me or I kill the bugs**
+- ✨ Fun fact: **I debug until bugs kill me or I kill the bugs**
 
 </p>
 
@@ -37,11 +37,11 @@ About Me
 
 <h2>
 
-Language and Tools I use:
+🛠️ Language and Tools I use:
 
 </h2>
 
-<p style="align: center; font-size: 18px">
+<p >
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -67,9 +67,9 @@ Language and Tools I use:
 
 </p>
 </br>
-<h2> Want To Contact Me? 📱</h2>
+<h2>💬 Want To Contact Me? </h2>
 
-<p style="align: center; font-size: 18px">
+<p >
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Singla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasingla2802/)](https://www.linkedin.com/in/adityasingla2802/)
 [![Instagram Badge](https://img.shields.io/badge/-ad1tya.28-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ad1tya.28/)](https://instagram.com/ad1tya.28)
@@ -78,9 +78,9 @@ Language and Tools I use:
 
  </p>
 </br>
-<h2> Github Stats</h2>
+<h2>📈 Github Stats</h2>
 
-<p style="align: center; font-size: 18px">
+<p >
 
 <a href="https://github.com/2802AdityA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2802AdityA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
