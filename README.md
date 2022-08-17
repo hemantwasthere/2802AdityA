@@ -1,26 +1,47 @@
-<p align="center">
-    <img src="Assets/Aditya.png" width="180" >
-</p>
-<h2 align="center"> Hey, I am Aditya Singla👋 </h2>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+
+<h1 align="center"> Hey, I am Aditya!</h1>
+
 <p align="center">
   <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Student;Web+Developer;Open+Source+Enthusiast&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&width=380&height=45&lines=A+Keen+Learner;Web+Developer;Open+Source+Enthusiast&center=true"></a>
 
 </p>
 
----
+<div>
+<img align="right" alt="coding" width="400" src="Assets/chellocat.png">
+</div>
+<h2>
 
-### About Me
+About Me
 
-- Freshman B.Tech (IT)
-- Open Source and Web3 enthusiast.
-- Practicing DSA (JAVA)
-- MERN Stack Developer
+</h2>
+
+<p>
+
+- B.Tech Freshman major in **Information Technology**
+
+- Currently working on **MERN Stack Projects**
+
+- Practicing DSA in **JAVA**
+
+- Exploring some open source projects to collaborate
+
 - Open for Collaborations
 
-### Language and Tools I use:
+- Fun fact: **I debug until bugs kill me or I kill the bugs**
 
-<h1 align = "center">
+</p>
+
+</br>
+
+<h2>
+
+Language and Tools I use:
+
+</h2>
+
+<p align = "justify">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,26 +58,27 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=Postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## </h1>
+</p>
+</br>
+<h2> Want To Contact Me? 📱</h2>
 
-### Want To Contact Me? 📱
-
-<h1 align = "center">
+<p align = "center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Singla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasingla2802/)](https://www.linkedin.com/in/adityasingla2802/)
 [![Instagram Badge](https://img.shields.io/badge/-ad1tya.28-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ad1tya.28/)](https://instagram.com/ad1tya.28)
 [![Twitter Badge](https://img.shields.io/badge/-2802AdityA-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2802AdityA/)](https://twitter.com/2802AdityA/)
 [![Gmail Badge](https://img.shields.io/badge/adityasingla.2802@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:adityasingla.2802@gmail.com)](mailto:adityasingla.2802@gmail.com)
 
-## </h1>
-
-### Github Stats
+ </p>
+</br>
+<h2> Github Stats</h2>
 
 <p align = "center">
 
@@ -66,8 +88,3 @@
 </a>
 
 </p>
-<h1 align="center>
-
-![](https://activity-graph.herokuapp.com/graph?username=2802AdityA&theme=react-dark&hide_border=true)
-
-## </h1>
