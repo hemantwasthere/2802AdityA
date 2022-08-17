@@ -17,7 +17,7 @@ About Me
 
 </h2>
 
-<p>
+<p style="font-size: 18px">
 
 - B.Tech Freshman major in **Information Technology**
 
@@ -41,7 +41,7 @@ Language and Tools I use:
 
 </h2>
 
-<p align = "justify">
+<p style="align: center; font-size: 18px">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -69,7 +69,7 @@ Language and Tools I use:
 </br>
 <h2> Want To Contact Me? 📱</h2>
 
-<p align = "center">
+<p style="align: center; font-size: 18px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Singla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasingla2802/)](https://www.linkedin.com/in/adityasingla2802/)
 [![Instagram Badge](https://img.shields.io/badge/-ad1tya.28-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ad1tya.28/)](https://instagram.com/ad1tya.28)
@@ -80,7 +80,7 @@ Language and Tools I use:
 </br>
 <h2> Github Stats</h2>
 
-<p align = "center">
+<p style="align: center; font-size: 18px">
 
 <a href="https://github.com/2802AdityA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2802AdityA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
