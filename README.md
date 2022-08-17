@@ -1,6 +1,8 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 
 <h1 align="center"> Hey, I am Aditya!</h1>
+<!-- h -->
+<span style="color:#39FF14"><h2 align="center" color="#39FF14">A Keen Learner | Web Developer | Open Source Enthusiast </h2></span>
 
 <div>
 <img align="right" alt="coding" width="400" src="Assets/chellocat.png">
@@ -10,7 +12,7 @@
 🙋🏻‍♂️ About Me
 
 </h2>
-
+<span style="font-size: 18px">
 <p >
 
 - 👨‍🎓 B.Tech Freshman major in **Information Technology**
@@ -26,7 +28,7 @@
 - ✨ Fun fact: **I debug until bugs kill me or I kill the bugs**
 
 </p>
-
+</span>
 </br>
 
 <h2>
